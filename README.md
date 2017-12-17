@@ -110,8 +110,9 @@ password: janedoe
 ```
 
 #### Run Docker Container
+```
 docker-compose up --build
-
+```
 
 ### Author
 **Olajide Bolaji 'Nuel** - Software Developer at Andela
